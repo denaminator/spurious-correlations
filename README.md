@@ -1,0 +1,1 @@
+This ML project examines the difference in performance between ResNets and ViTs on spurious correlations and whether they are able to learn the true patterns of a poisoned dataset.
